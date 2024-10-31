@@ -1,0 +1,11 @@
+product_id,category,brand,launch_date
+P001,Software,BrandC,2021-07-11
+P002,Electronics,BrandC,2021-10-04
+P003,Software,BrandA,2021-06-10
+P004,Software,BrandC,2021-11-10
+P005,Electronics,BrandB,2021-01-22
+P006,Electronics,BrandA,2021-09-10
+P007,Software,BrandB,2021-08-24
+P008,Accessories,BrandB,2021-12-11
+P009,Software,BrandB,2021-02-18
+P010,Software,BrandB,2021-02-28

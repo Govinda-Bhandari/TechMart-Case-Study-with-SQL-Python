@@ -1,0 +1,21 @@
+customer_id,signup_date,city,age,gender
+C001,2021-05-25,Los Angeles,35,Male
+C002,2021-11-12,Los Angeles,43,Female
+C003,2021-04-20,New York,61,Female
+C004,2021-11-30,Los Angeles,51,Female
+C005,2020-07-08,Phoenix,27,Male
+C006,2021-11-17,Los Angeles,53,Male
+C007,2021-07-16,Houston,31,Male
+C008,2021-07-20,Houston,48,Male
+C009,2020-08-31,Houston,32,Male
+C010,2021-05-19,Houston,25,Male
+C011,2020-05-10,Phoenix,31,Male
+C012,2021-04-29,Chicago,40,Male
+C013,2021-10-08,New York,57,Male
+C014,2020-01-21,Houston,38,Female
+C015,2020-06-15,Los Angeles,33,Male
+C016,2020-09-30,Houston,62,Female
+C017,2021-01-22,Los Angeles,35,Female
+C018,2021-08-23,Los Angeles,64,Female
+C019,2020-11-11,Houston,41,Male
+C020,2020-01-14,Phoenix,43,Male
